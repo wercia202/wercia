@@ -2,8 +2,9 @@
 
 using namespace std;
 
-int main()
-{
+int global_var
+
+int main(){
     cout << "Hello world!" << endl;
     return 0;
 }
